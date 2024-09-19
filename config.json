@@ -1,0 +1,17 @@
+{
+	"meta": {
+		"name": "",
+		"short_description": "",
+		"long_description": "",
+		"tags": "",
+		"access": "public",
+		"contact": {
+			"name": "Your Name",
+			"role": "Engineer",
+			"company": "Yout Company",
+			"email": "support@skyciv.com"
+		}
+	},
+	"input_variables": {
+	}
+}

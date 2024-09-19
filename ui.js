@@ -1,0 +1,1 @@
+var input = SKYCIV_DESIGN.generateInput(true);
